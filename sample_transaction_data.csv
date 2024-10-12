@@ -1,0 +1,6 @@
+Transaction_ID,Amount,Category,Timestamp
+1,100,Groceries,2023-09-10
+2,150,Dining,2023-09-12
+3,200,Groceries,2023-09-15
+4,50,Transport,2023-09-17
+5,300,Rent,2023-09-20
